@@ -54,7 +54,7 @@ Approximately 3 to 4 hours
 
 How to Review
 Start with TEST_PLAN to understand the testing approach
-Review TEST_CASES.xlsx for coverage
+Review Test Cases.xlsx for coverage
 Check BUG_REPORTS along with evidence
 Review API_TESTS
 Read IMPROVEMENTS
